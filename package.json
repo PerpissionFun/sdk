@@ -1,0 +1,14 @@
+{
+"name":"perpission",
+
+"version":"1.0.0",
+
+"description":"Perpission Trading Protocol",
+
+"dependencies":{
+
+"express":"^4.18.2"
+
+}
+
+}
