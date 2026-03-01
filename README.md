@@ -6,6 +6,7 @@ No KYC. No limits. Full control.
 
 🌐 Website: https://perpission.fun/  
 🐦 Twitter: https://x.com/PerpissionFun
+
 CA pump.fun : xxxxxxxxxxpump
 ---
 
